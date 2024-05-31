@@ -40,6 +40,8 @@ MediSync is a health care record system. It maintains the information of patient
 
 -> View, Update and Delete Appointment Records
 
+-> Search Functionality (Serach Records by Name, Address and Date)
+
 ## Technology
 
 -> .NET Framework
