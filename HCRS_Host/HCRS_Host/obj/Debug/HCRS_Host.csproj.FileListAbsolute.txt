@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\bin\Debug\HCRS_Host.exe.config
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\bin\Debug\HCRS_Host.exe
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\bin\Debug\HCRS_Host.pdb
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\bin\Debug\HCRS_Service.dll
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\bin\Debug\HCRS_Service.pdb
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.Form1.resources
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.Properties.Resources.resources
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.csproj.CopyComplete
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.exe
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Host\HCRS_Host\obj\Debug\HCRS_Host.pdb

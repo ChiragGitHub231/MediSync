@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Health Care Record System</title>
+    <link href="../../../Content/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+    <link rel="stylesheet" href="../../Content/styles.css" />
+</head>
+<body>
+    <div class="area"></div>
+    <nav class="main-menu">
+        <div style="margin-top: 20px; margin-bottom: 20px; text-align: center; color: #fff; font-size: 1.5rem;">
+            MediSync
+        </div>
+        <div style="margin-top: 3px; text-align: center; color: #fff; font-size: 1.1rem; margin-bottom: 10px;">
+            Welcome, Admin
+        </div>
+        <ul>
+            <li>
+                <a href="Home.aspx">
+                    <i class="fa fa-home fa-2x"></i>
+                    <span class="nav-text">Home</span>
+                </a>
+
+            </li>
+            <li class="has-subnav">
+                <a href="Patients.aspx">
+                    <i class="fa fa-wheelchair fa-2x"></i>
+                    <span class="nav-text">Patients</span>
+                </a>
+
+            </li>
+            <li class="has-subnav">
+                <a href="Doctors.aspx">
+                    <i class="fa fa-user-md fa-2x"></i>
+                    <span class="nav-text">Doctors</span>
+                </a>
+
+            </li>
+            <li class="has-subnav">
+                <a href="Appointments.aspx">
+                    <i class="fa fa-calendar fa-2x"></i>
+                    <span class="nav-text">Appointments</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="SignIn.aspx">
+                    <i class="fa fa-power-off fa-2x"></i>
+                    <span class="nav-text">Logout</span>
+                </a>
+            </li>
+        </ul>
+
+    </nav>
+    <div>
+        <asp:ContentPlaceHolder ID="AdminMasterPage" runat="server" />
+    </div>
+    <script src="../../../Scripts/bootstrap.bundle.min.js"></script>
+
+    <script>
+        function adjustSidebarHeight() {
+            var contentHeight = document.body.scrollHeight;
+            var sidebar = document.querySelector('.main-menu');
+            sidebar.style.minHeight = contentHeight + 'px';
+        }
+
+        // Call the function initially
+        adjustSidebarHeight();
+    </script>
+</body>
+</html>

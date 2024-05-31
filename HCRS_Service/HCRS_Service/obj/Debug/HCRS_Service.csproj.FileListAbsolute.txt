@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Service\HCRS_Service\bin\Debug\HCRS_Service.dll
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Service\HCRS_Service\bin\Debug\HCRS_Service.pdb
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Service\HCRS_Service\obj\Debug\HCRS_Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Service\HCRS_Service\obj\Debug\HCRS_Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Service\HCRS_Service\obj\Debug\HCRS_Service.dll
+C:\Users\HP\Desktop\Sem 6\WSD\Project\Health_Care_Record_System\HCRS_Service\HCRS_Service\obj\Debug\HCRS_Service.pdb

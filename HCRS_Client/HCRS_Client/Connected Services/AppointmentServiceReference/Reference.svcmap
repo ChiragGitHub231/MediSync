@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="e6d5fe98-d2d5-4daf-84e8-c52342da1186" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9000/Health_Care_Record_System/Appointment" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Appointment2.xsd" MetadataType="Schema" ID="576a8235-191b-4c1f-adf5-60d39cd60560" SourceId="1" SourceUrl="http://localhost:9000/Health_Care_Record_System/Appointment?xsd=xsd1" />
+    <MetadataFile FileName="Appointment1.xsd" MetadataType="Schema" ID="536c1ed7-0478-48a8-b2f2-1f1bda728b6a" SourceId="1" SourceUrl="http://localhost:9000/Health_Care_Record_System/Appointment?xsd=xsd2" />
+    <MetadataFile FileName="Appointment.disco" MetadataType="Disco" ID="aa3394e4-7528-4a9a-94da-f70b95a1b2ad" SourceId="1" SourceUrl="http://localhost:9000/Health_Care_Record_System/Appointment?disco" />
+    <MetadataFile FileName="Appointment3.xsd" MetadataType="Schema" ID="d74717ec-0ef7-41ad-8f2d-ddec282e53be" SourceId="1" SourceUrl="http://localhost:9000/Health_Care_Record_System/Appointment?xsd=xsd3" />
+    <MetadataFile FileName="AppointmentService.wsdl" MetadataType="Wsdl" ID="056207bc-8cdd-4865-82fc-9fcaeb9210a1" SourceId="1" SourceUrl="http://localhost:9000/Health_Care_Record_System/Appointment?wsdl" />
+    <MetadataFile FileName="Appointment.xsd" MetadataType="Schema" ID="fd2fb6e2-3f14-4dfe-bc6c-a904686de6c9" SourceId="1" SourceUrl="http://localhost:9000/Health_Care_Record_System/Appointment?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
