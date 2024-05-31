@@ -18,6 +18,10 @@
 
 ![CreatePatient](https://github.com/ChiragGitHub231/MediSync/assets/107389544/73466fe3-30a8-441d-a356-54ff547863f7)
 
+### Create Doctor Page
+
+![CreateDoctor](https://github.com/ChiragGitHub231/MediSync/assets/107389544/6665c0ea-96ef-4c12-9ee8-ee3206e42075)
+
 ## Description
 
 MediSync is a health care record system. It maintains the information of patients, doctors and their appointments. There is only one user in this system to use it which is Admin. Admin can manage the details of patients, doctors and their appointments. I built this using WCF Services.
